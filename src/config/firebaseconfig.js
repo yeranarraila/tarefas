@@ -3,7 +3,7 @@ import '@firebase/auth';
 import '@firebase/firestore';
 
 const firebaseConfig = {
-    apiKey: "AIzaSyBThJ1AKtojqDKGb1kyqTEAd0xALlSNfyQ",
+    apiKey: "AIzaSyBThJ1AKtojqDKGb1kyqTEAe0xALlSNfyQ",
     authDomain: "tarefasrecode.firebaseapp.com",
     projectId: "tarefasrecode",
     storageBucket: "tarefasrecode.appspot.com",
